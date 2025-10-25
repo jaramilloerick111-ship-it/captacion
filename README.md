@@ -1,1 +1,2 @@
-Capacitación de aguas pluviales en Zinacantepec 
+Capacitación de aguas pluviales en Zinacantepec
+Pagina web consiste en un software basado en la captación de aguas pliviales en Zinacantepec la cual cuneta con una calculdora rn cual sirve para los usuarios les servira para poder calcular cuanta agua se puede captar en sus hogares y de igualmanera para que les puede servir o en que pueden reutilizar el agua que pueden captar y como instalar utlizar y los costos del prototipo funcional.
